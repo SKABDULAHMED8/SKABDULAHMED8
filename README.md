@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced Data Science concets
 - 💞️ I’m looking to collaborate on ...Data Science projects
 - 📫 How to reach me ...skabdulahmed1438@gmail.com
-- 😄 Pronouns: ...AbdulAhmedShaik
+- 😄 Pronouns: ...Shaik Abdul Ahmed
 - ⚡ Fun fact: ... Interested in the python.
 
 <!---
