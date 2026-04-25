@@ -83,9 +83,9 @@ Strong interest in solving real-world problems through analytics and intelligent
 ## 📈 GitHub Stats 🗓️📉🌐
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKABDULAHMED8&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SKABDULAHMED8&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKABDULAHMED8&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=SKABDULAHMED8&theme=tokyonight&cache_seconds=1800" alt="streak"/>
 </p>
 
 ---
