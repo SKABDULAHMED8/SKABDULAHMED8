@@ -95,4 +95,8 @@ Strong interest in solving real-world problems through analytics and intelligent
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SKABDULAHMED8&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
 </p>
-
+<p align="center">
+  <a href="https://skabdulahmed8.github.io/aask-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=00f5ff"/>
+  </a>
+</p>
