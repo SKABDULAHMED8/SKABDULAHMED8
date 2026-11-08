@@ -33,7 +33,6 @@ I like small, fast, privacy-friendly tools that work offline and solve one probl
 | 🧹 [**Light PC Cleaner**](https://github.com/SKABDULAHMED8/LightPCCleaner) | Offline safe-clean utility for browser caches, temp files and thumbnails. Scan never deletes. | C# · WPF |
 | 🌐 [**Chrome Cache Cleaner**](https://github.com/SKABDULAHMED8/ChromeCleanerBuild) | Offline Windows GUI for clearing Chrome cache. | C# · .NET |
 | 🏠 [**Bengaluru House Price Prediction**](https://github.com/SKABDULAHMED8/HOME_PRICE_PREDICTION_PROJECT) | ML web app predicting house prices from location, BHK, area and bathrooms. | Python · scikit-learn · Flask |
-| 🔐 [**Securing Data with Blockchain & AI**](https://github.com/SKABDULAHMED8/Securing_Data_Blockchain_AI) | File encryption web app with blockchain-based integrity tracking. | Python · Flask · AES |
 | 📈 [**Global Markets in IST**](https://github.com/SKABDULAHMED8/global-markets-ist) | Single-file page showing live open/close status of major stock exchanges in Indian Standard Time, with DST handled. | HTML · JavaScript · Luxon |
 | 💼 [**Portfolio Website**](https://github.com/SKABDULAHMED8/aask-portfolio) | Personal portfolio site. | HTML · CSS |
 
