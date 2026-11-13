@@ -33,6 +33,7 @@ I like small, fast, privacy-friendly tools that work offline and solve one probl
 | 🧹 [**Light PC Cleaner**](https://github.com/SKABDULAHMED8/LightPCCleaner) | Offline safe-clean utility for browser caches, temp files and thumbnails. Scan never deletes. | C# · WPF |
 | 🌐 [**Chrome Cache Cleaner**](https://github.com/SKABDULAHMED8/ChromeCleanerBuild) | Offline Windows GUI for clearing Chrome cache. | C# · .NET |
 | 📋 [**Clipit**](https://github.com/SKABDULAHMED8/ClipitFunction) | Run any command in CMD or PowerShell and copy its complete output to the clipboard. One-command installer, auto-saves large outputs. | PowerShell · Batch |
+| ⏱️ [**Watch Task Monitor**](https://github.com/SKABDULAHMED8/Watch-Task-Monitor-PS-CMD) | Run any CMD or PowerShell command and see its elapsed time, status and exit code. Saves every run to a log. One-command installer, no admin rights. | PowerShell · Batch |
 | 🏠 [**Bengaluru House Price Prediction**](https://github.com/SKABDULAHMED8/HOME_PRICE_PREDICTION_PROJECT) | ML web app predicting house prices from location, BHK, area and bathrooms. | Python · scikit-learn · Flask |
 | 📈 [**Global Markets in IST**](https://github.com/SKABDULAHMED8/global-markets-ist) | Single-file page showing live open/close status of major stock exchanges in Indian Standard Time, with DST handled. | HTML · JavaScript · Luxon |
 | 💼 [**Portfolio Website**](https://github.com/SKABDULAHMED8/aask-portfolio) | Personal portfolio site. | HTML · CSS |
